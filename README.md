@@ -18,3 +18,4 @@ Com este perfil, meu objetivo é não apenas compartilhar meus projetos, mas tam
 <img width="100" height="100" alt="MySQL" src="https://github.com/user-attachments/assets/71537ad3-2bb1-40cc-a406-0b57c7a82cb4" />
 <img width="100" height="100" alt="PostgresSQL" src="https://github.com/user-attachments/assets/e3698d86-10ba-4747-b9bf-227604cfdfb1" />
 <img width="100" height="100" alt="Figma" src="https://github.com/user-attachments/assets/f44fe0e9-0f20-468c-bc57-75441352951f" />
+
