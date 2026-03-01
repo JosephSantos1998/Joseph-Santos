@@ -9,6 +9,8 @@ Destaco-me na criação de dashboards interativos e relatórios que orientam dec
 
 Com este perfil, meu objetivo é não apenas compartilhar meus projetos, mas também documentar meu progresso e aplicar a melhoria contínua ao longo da minha jornada.
 
+O link do meu Linkedin: https://www.linkedin.com/in/joseph-santos-4a157b11a/
+
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/024fd274-eb59-4c70-9025-ba84f8b9a67c" />  # Ferramentas / Linguagem
 
 <img width="100" height="100" alt="pOWER_bI" src="https://github.com/user-attachments/assets/a19bd506-8c75-44db-ac6d-fa72335b1b75" />
